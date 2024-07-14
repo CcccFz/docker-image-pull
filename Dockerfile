@@ -1,1 +1,1 @@
-FROM redis:7.2.5
+FROM quay.io/minio/minio:RELEASE.2024-07-13T01-46-15Z
